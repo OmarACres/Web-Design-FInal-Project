@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Master</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<p>[Penguin Facts.Com]</p>
+	<table>
+		<tr>
+			<td><a href="../homepage.html">Home Page</a></td>
+			<td><a href="../key-penguin-facts.html">Key Penguin Facts
+            </a></td>
+			<td><a href="../penguin-species.html">Penguin Species</a></td>
+			<td><a href="../penguins-in-pop-culture.html">Penguins in Pop Culture</a></td>
+			<td><a href="../penguin-videos.html">Penguin Pictures</a></td>
+		</tr>
+	</table>
+	<!-- TemplateBeginEditable name="Master Content Area" -->
+	<p>[Content goes heree]</p>
+	<!-- TemplateEndEditable -->
+</body>
+</html>
